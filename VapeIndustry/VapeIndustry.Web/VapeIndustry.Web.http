@@ -1,0 +1,6 @@
+@VapeIndustry.Web_HostAddress = http://localhost:5209
+
+GET {{VapeIndustry.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
