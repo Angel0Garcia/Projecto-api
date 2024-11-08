@@ -15,7 +15,7 @@ namespace VapeIndustry.Api.Controllers
         { 
             _context = context;
         }
-
+        
         
     }
 }
